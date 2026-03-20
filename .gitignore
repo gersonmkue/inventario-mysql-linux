@@ -1,0 +1,4 @@
+reportes/
+*.txt
+*.log
+.my.cnf
