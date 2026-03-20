@@ -16,7 +16,12 @@ Sistema de control de inventario basado en MySQL con automatización en Linux.
 - `scripts/` → automatización en bash
 - `reportes/` → salida de reportes
 
-## Ejecutar reporte
+## Automatización
+
+El sistema incluye un script en Bash que genera reportes automáticamente usando cron.
+
+Ejemplo:
 
 ```bash
 ./scripts/reporte_inventario.sh
+
